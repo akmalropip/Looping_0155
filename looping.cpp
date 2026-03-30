@@ -6,4 +6,5 @@ int main(){
     int x;
 
     //perulangan dengan FOR
+    //mencetak tulisan sebanyak 5 kali
 }
