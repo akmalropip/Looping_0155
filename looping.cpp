@@ -28,4 +28,15 @@ int main(){
     cout<<endl;
 
     //perulangan dengan DO...WHILE
+    cout<<"PERULANGAN DO...WHILE"<<endl;
+    x = 1 + rand()%10;
+    do{
+        cout<<"Bilangan acak = "<<x <<endl;
+        x = rand()%10;
+    }while(x<=5);
+
+    cout<<"Bilangan acak do-while yang terakhir ="<<x <<endl;
+    cout<<endl;
 }
+
+logika not
