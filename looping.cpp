@@ -40,6 +40,7 @@ int main(){
     cout<<endl;
 }
 
+
 //logika not
 #include <iostream>
 using namespace std;
@@ -63,6 +64,7 @@ int main(){
     cout<<"Status kelulusan = "<<status<<" ,dengan nilai rata-rata = "<<rerata<<endl;
 }
 
+
 //logika OR
 #include <iostream>
 using namespace std;
@@ -85,6 +87,7 @@ int main(){
 
     cout<<"Status kelulusan = "<<status<<" ,dengan nilai rata-rata = "<<rerata<<endl;
 }
+
 
 //logika AND
 #include <iostream>
